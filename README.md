@@ -18,5 +18,8 @@
         
     -   The **custom metric** from the Java Spring Boot container.
  
+### To Build The App
+	mvn clean package
+ 
 ### To Run Shell Script
 	sh init.sh
